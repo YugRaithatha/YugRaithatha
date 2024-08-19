@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**YugRaithatha/YugRaithatha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about exploring the cutting edge of technology, diving deep into newly evolving tech, and solving complex problems through code. Whether it's mastering the latest frameworks, participating in hackathons, or just tackling a tough bug, I love the challenge that comes with staying at the forefront of innovation.
 
-Here are some ideas to get you started:
+🔍 **Interests:**
+- Evolving Technologies like Quantum Computing and AI
+- Full-Stack Development with React and Node.js
+- Problem Solving & Algorithms in Competitive Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently Learning:**
+- Rust for Systems Programming
+- Flutter for Cross-Platform Mobile Development
+
+Let's connect and build something awesome together!
